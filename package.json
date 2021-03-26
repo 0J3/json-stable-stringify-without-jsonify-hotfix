@@ -1,0 +1,9 @@
+{
+	"name": "json-stable-stringify-without-jsonify",
+	"description": "See https://yarnpkg.com/package/json-stable-stringify-without-jsonify",
+	"version": "1.0.0",
+	"author": {
+		"name": "Hotfix Package - See https://yarnpkg.com/package/json-stable-stringify-without-jsonify for actual author"
+	},
+	"main": "./index.js"
+}
